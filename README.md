@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Luan
-#### I am GitHub Readme Generator's creator
 I'm a student at FPT University, studying Artificial Intelligence with a focus on Computer Vision and NLP. I'm passionate about exploring the capabilities of AI and developing innovative solutions to real-world problems.
 
 Skills: PYTHON / SQL
