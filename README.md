@@ -11,6 +11,12 @@ I'm a student at FPT University, studying Artificial Intelligence with a focus o
 <a href="https://www.linkedin.com/in/luan-vo-4a34281a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luan-vo-4a34281a8/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvo03&show_icons=true&locale=en&layout=compact" alt="luanvo03" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luanvo03&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="luanvo03" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=luanvo03&show_icons=true&locale=en" alt="luanvo03" /></p>
+![Luan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luanvo03&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+
+
+<a href="https://github.com/luanvo03/IBM-Data-Science-Capstone">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=luanvo03&repo=IBM-Data-Science-Capstone&theme=radical" />
+</a>
