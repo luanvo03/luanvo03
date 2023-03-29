@@ -11,10 +11,8 @@ I'm a student at FPT University, studying Artificial Intelligence with a focus o
 <a href="https://www.linkedin.com/in/luan-vo-4a34281a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/luan-vo-4a34281a8/" height="30" width="40" /></a>
 </p>
 
-<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=luanvo03&theme=react&line_height=40&hide=css"/> </a>
-
+  
 ![Luan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luanvo03&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
 
 <a href="https://github.com/luanvo03/IBM-Data-Science-Capstone">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
