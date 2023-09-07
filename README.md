@@ -14,7 +14,3 @@ I'm a student at FPT University, studying Artificial Intelligence with a focus o
   
 ![Luan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luanvo03&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/luanvo03/IBM-Data-Science-Capstone">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=luanvo03&repo=IBM-Data-Science-Capstone&theme=radical" />
-</a>
