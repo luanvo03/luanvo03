@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Luan
-I'm a student at FPT University, studying Artificial Intelligence. I'm passionate about exploring the capabilities of AI and developing innovative solutions to real-world problems.
+<! –– I'm a student at FPT University, studying Artificial Intelligence. I'm passionate about exploring the capabilities of AI and developing innovative solutions to real-world problems.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luanvo03&label=Profile%20views&color=0e75b6&style=flat" alt="luanvo03" /> </p>
 
@@ -12,5 +12,5 @@ I'm a student at FPT University, studying Artificial Intelligence. I'm passionat
 </p>
 
   
-![Luan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luanvo03&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Luan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=luanvo03&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)––>
 
